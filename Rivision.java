@@ -12,7 +12,7 @@ public class Rivision {
        // sum = Math.pow(a,1.0/2);
         //sum = (int) Math.pow(2,4);
        // System.out.println(sum);
-        char [] mark = {'6','B','C'};
+        String [] mark = {"6",'B','C'};
         char m = 'A';
         System.out.println(m);
 
